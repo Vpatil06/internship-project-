@@ -1,4 +1,4 @@
-# internship-project-
+# HR Analytics -- Employee Attrition Analysis
 HR Analytics -Predict Employee Attrition 
 Objective:
 Use analytics to identify key causes of employee attrition and build a predictive model to forecast future resignations.
